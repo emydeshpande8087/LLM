@@ -1,0 +1,391 @@
+,Date,Category,Amount,Note,type,Payment mode,To payment mode,Tags,instructions
+0,2025-01-31 14:53:00,Items in home,450.0,Washing machine cover,Expense,ICICI BANK,,," On Date 2025-01-31 14:53:00 an amount of rupees 450.0 were spent from ICICI BANK account in category
+            ""Items in home"" with a note mentioned as ""Washing machine cover""  "
+1,2025-01-31 14:52:00,Dining and eatouts,20.0,Dabeli,Expense,SBI bank,,," On Date 2025-01-31 14:52:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Dabeli""  "
+2,2025-01-31 14:51:00,Dining and eatouts,10.0,paani bottle,Expense,SBI bank,,," On Date 2025-01-31 14:51:00 an amount of rupees 10.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""paani bottle""  "
+3,2025-01-31 14:51:00,Dining and eatouts,30.0,Vadapav,Expense,SBI bank,,," On Date 2025-01-31 14:51:00 an amount of rupees 30.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Vadapav""  "
+4,2025-01-31 14:51:00,Snacks and Food,36.0,Milk,Expense,SBI bank,,," On Date 2025-01-31 14:51:00 an amount of rupees 36.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Milk""  "
+5,2025-01-31 14:51:00,Others,24.0,,Expense,SBI bank,,," On Date 2025-01-31 14:51:00 an amount of rupees 24.0 were spent from SBI bank account in category
+            ""Others""  "
+6,2025-01-31 14:50:00,Snacks and Food,255.0,Sweets,Expense,ICICI BANK,,," On Date 2025-01-31 14:50:00 an amount of rupees 255.0 were spent from ICICI BANK account in category
+            ""Snacks and Food"" with a note mentioned as ""Sweets""  "
+7,2025-01-31 14:50:00,Kirana ,2161.48,DMART,Expense,ICICI BANK,,," On Date 2025-01-31 14:50:00 an amount of rupees 2161.48 were spent from ICICI BANK account in category
+            ""Kirana "" with a note mentioned as ""DMART""  "
+8,2025-01-31 14:50:00,Bike,70.0,Bike wash,Expense,ICICI BANK,,," On Date 2025-01-31 14:50:00 an amount of rupees 70.0 were spent from ICICI BANK account in category
+            ""Bike"" with a note mentioned as ""Bike wash""  "
+9,2025-01-31 14:49:00,New Home,417.0,Door repair,Expense,ICICI BANK,,," On Date 2025-01-31 14:49:00 an amount of rupees 417.0 were spent from ICICI BANK account in category
+            ""New Home"" with a note mentioned as ""Door repair""  "
+10,2025-01-31 09:58:00,Bills and Utilities,130.0,Google photos,Expense,Rupay ICICI Card,,," On Date 2025-01-31 09:58:00 an amount of rupees 130.0 were spent from Rupay ICICI Card account in category
+            ""Bills and Utilities"" with a note mentioned as ""Google photos""  "
+11,2025-01-31 09:54:00,Dining and eatouts,70.0,Badaam shake,Expense,SBI bank,,," On Date 2025-01-31 09:54:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Badaam shake""  "
+12,2025-01-31 09:54:00,Zomato and Swiggy,290.0,Pakwaan,Expense,SBI bank,,," On Date 2025-01-31 09:54:00 an amount of rupees 290.0 were spent from SBI bank account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Pakwaan""  "
+13,2025-01-30 10:51:00,Zomato and Swiggy,264.0,Pakwan,Expense,SBI bank,,," On Date 2025-01-30 10:51:00 an amount of rupees 264.0 were spent from SBI bank account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Pakwan""  "
+14,2025-01-30 10:51:00,Dining and eatouts,20.0,Kachori,Expense,SBI bank,,," On Date 2025-01-30 10:51:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Kachori""  "
+15,2025-01-30 10:50:00,Items in home,900.0,Plastic hanging fake plants,Expense,ICICI BANK,,," On Date 2025-01-30 10:50:00 an amount of rupees 900.0 were spent from ICICI BANK account in category
+            ""Items in home"" with a note mentioned as ""Plastic hanging fake plants""  "
+16,2025-01-29 11:22:00,Dining and eatouts,140.0,Dosa,Expense,SBI bank,,," On Date 2025-01-29 11:22:00 an amount of rupees 140.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Dosa""  "
+17,2025-01-29 10:45:00,Transfer,1000.0,,Transfer,ICICI BANK,SBI bank,," On Date 2025-01-29 10:45:00 a transaction of rupees 1000.0 was recieved into ICICI BANK account in category
+            ""Transfer""  "
+18,2025-01-29 10:44:00,Recieved from Others,3000.0,Tb recieved,Income,ICICI BANK,,," On Date 2025-01-29 10:44:00 a transaction of rupees 3000.0 was recieved into ICICI BANK account in category
+            ""Recieved from Others"" with a note mentioned as ""Tb recieved""  "
+19,2025-01-29 10:44:00,Bills and Utilities,350.0,Tv recharge,Expense,ICICI BANK,,," On Date 2025-01-29 10:44:00 an amount of rupees 350.0 were spent from ICICI BANK account in category
+            ""Bills and Utilities"" with a note mentioned as ""Tv recharge""  "
+20,2025-01-29 10:43:00,Vegetables & fruits,40.0,Tarbooj,Expense,ICICI BANK,,," On Date 2025-01-29 10:43:00 an amount of rupees 40.0 were spent from ICICI BANK account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Tarbooj""  "
+21,2025-01-29 10:43:00,Snacks and Food,25.0,Jalebi,Expense,ICICI BANK,,," On Date 2025-01-29 10:43:00 an amount of rupees 25.0 were spent from ICICI BANK account in category
+            ""Snacks and Food"" with a note mentioned as ""Jalebi""  "
+22,2025-01-29 10:43:00,Dining and eatouts,30.0,Bhakri,Expense,ICICI BANK,,," On Date 2025-01-29 10:43:00 an amount of rupees 30.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bhakri""  "
+23,2025-01-28 19:37:00,Dining and eatouts,20.0,Usacha ras,Expense,ICICI BANK,,," On Date 2025-01-28 19:37:00 an amount of rupees 20.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Usacha ras""  "
+24,2025-01-28 19:36:00,Items in home,100.0,Nursery plants,Expense,ICICI BANK,,," On Date 2025-01-28 19:36:00 an amount of rupees 100.0 were spent from ICICI BANK account in category
+            ""Items in home"" with a note mentioned as ""Nursery plants""  "
+25,2025-01-28 19:36:00,Items in home,100.0,Nursery plants,Expense,ICICI BANK,,," On Date 2025-01-28 19:36:00 an amount of rupees 100.0 were spent from ICICI BANK account in category
+            ""Items in home"" with a note mentioned as ""Nursery plants""  "
+26,2025-01-28 19:36:00,Vegetables & fruits,20.0,Kothimbir,Expense,ICICI BANK,,," On Date 2025-01-28 19:36:00 an amount of rupees 20.0 were spent from ICICI BANK account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Kothimbir""  "
+27,2025-01-28 19:36:00,Vegetables & fruits,260.0,Dalimb apple,Expense,ICICI BANK,,," On Date 2025-01-28 19:36:00 an amount of rupees 260.0 were spent from ICICI BANK account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Dalimb apple""  "
+28,2025-01-28 19:36:00,Items in home,180.0,White spray paint,Expense,ICICI BANK,,," On Date 2025-01-28 19:36:00 an amount of rupees 180.0 were spent from ICICI BANK account in category
+            ""Items in home"" with a note mentioned as ""White spray paint""  "
+29,2025-01-28 19:35:00,Others,230.0,Pan D tab,Expense,ICICI BANK,,," On Date 2025-01-28 19:35:00 an amount of rupees 230.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Pan D tab""  "
+30,2025-01-28 19:35:00,Dining and eatouts,20.0,Kulfi,Expense,ICICI BANK,,," On Date 2025-01-28 19:35:00 an amount of rupees 20.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Kulfi""  "
+31,2025-01-26 23:04:00,Dining and eatouts,90.0,Faluda,Expense,ICICI BANK,,," On Date 2025-01-26 23:04:00 an amount of rupees 90.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Faluda""  "
+32,2025-01-26 23:04:00,Others,20.0,Chikku bhaiya coldrink,Expense,ICICI BANK,,," On Date 2025-01-26 23:04:00 an amount of rupees 20.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Chikku bhaiya coldrink""  "
+33,2025-01-26 23:03:00,Others,122.0,Aunty trip,Expense,ICICI BANK,,," On Date 2025-01-26 23:03:00 an amount of rupees 122.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Aunty trip""  "
+34,2025-01-26 10:04:00,Entertainment,199.0,Netflix,Expense,Amazon ICICI,,," On Date 2025-01-26 10:04:00 an amount of rupees 199.0 were spent from Amazon ICICI account in category
+            ""Entertainment"" with a note mentioned as ""Netflix""  "
+35,2025-01-26 10:04:00,Dining and eatouts,100.0,Anda rice,Expense,ICICI BANK,,," On Date 2025-01-26 10:04:00 an amount of rupees 100.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Anda rice""  "
+36,2025-01-26 10:03:00,Dining and eatouts,25.0,Kulfi,Expense,ICICI BANK,,," On Date 2025-01-26 10:03:00 an amount of rupees 25.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Kulfi""  "
+37,2025-01-26 10:03:00,Kirana ,100.0,Janata food bazaar,Expense,ICICI BANK,,," On Date 2025-01-26 10:03:00 an amount of rupees 100.0 were spent from ICICI BANK account in category
+            ""Kirana "" with a note mentioned as ""Janata food bazaar""  "
+38,2025-01-26 10:03:00,Others,43.0,Cataspa,Expense,ICICI BANK,,," On Date 2025-01-26 10:03:00 an amount of rupees 43.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Cataspa""  "
+39,2025-01-26 10:03:00,Vegetables & fruits,10.0,Limbu,Expense,UPI LITE,,," On Date 2025-01-26 10:03:00 an amount of rupees 10.0 were spent from UPI LITE account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Limbu""  "
+40,2025-01-26 10:02:00,Dining and eatouts,198.0,Strawberry at phoenix,Expense,ICICI BANK,,," On Date 2025-01-26 10:02:00 an amount of rupees 198.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Strawberry at phoenix""  "
+41,2025-01-26 10:02:00,Entertainment,670.0,Fussclass dabhade,Expense,ICICI BANK,,," On Date 2025-01-26 10:02:00 an amount of rupees 670.0 were spent from ICICI BANK account in category
+            ""Entertainment"" with a note mentioned as ""Fussclass dabhade""  "
+42,2025-01-26 10:02:00,Kirana ,153.0,Janata bazaar,Expense,ICICI BANK,,," On Date 2025-01-26 10:02:00 an amount of rupees 153.0 were spent from ICICI BANK account in category
+            ""Kirana "" with a note mentioned as ""Janata bazaar""  "
+43,2025-01-26 10:01:00,Dining and eatouts,85.0,Idli,Expense,ICICI BANK,,," On Date 2025-01-26 10:01:00 an amount of rupees 85.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Idli""  "
+44,2025-01-26 10:01:00,Kirana ,162.0,Janata bazaar,Expense,ICICI BANK,,," On Date 2025-01-26 10:01:00 an amount of rupees 162.0 were spent from ICICI BANK account in category
+            ""Kirana "" with a note mentioned as ""Janata bazaar""  "
+45,2025-01-26 10:01:00,Kirana ,70.0,Janata bazaar,Expense,ICICI BANK,,," On Date 2025-01-26 10:01:00 an amount of rupees 70.0 were spent from ICICI BANK account in category
+            ""Kirana "" with a note mentioned as ""Janata bazaar""  "
+46,2025-01-26 10:00:00,Dining and eatouts,50.0,Bhaji,Expense,ICICI BANK,,," On Date 2025-01-26 10:00:00 an amount of rupees 50.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bhaji""  "
+47,2025-01-26 10:00:00,Dining and eatouts,25.0,Paan,Expense,ICICI BANK,,," On Date 2025-01-26 10:00:00 an amount of rupees 25.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Paan""  "
+48,2025-01-25 09:56:00,Entertainment,804.96,Fussclass dabhade,Expense,Amazon ICICI,,," On Date 2025-01-25 09:56:00 an amount of rupees 804.96 were spent from Amazon ICICI account in category
+            ""Entertainment"" with a note mentioned as ""Fussclass dabhade""  "
+49,2025-01-23 20:34:00,Transfer,500.0,,Transfer,ICICI BANK,SBI bank,," On Date 2025-01-23 20:34:00 a transaction of rupees 500.0 was recieved into ICICI BANK account in category
+            ""Transfer""  "
+50,2025-01-23 20:29:00,Dining and eatouts,35.0,Idli,Expense,SBI bank,,," On Date 2025-01-23 20:29:00 an amount of rupees 35.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Idli""  "
+51,2025-01-23 20:29:00,Dining and eatouts,70.0,Badamshake,Expense,ICICI BANK,,," On Date 2025-01-23 20:29:00 an amount of rupees 70.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Badamshake""  "
+52,2025-01-23 20:29:00,Dining and eatouts,120.0,Lolypop,Expense,ICICI BANK,,," On Date 2025-01-23 20:29:00 an amount of rupees 120.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Lolypop""  "
+53,2025-01-23 20:28:00,Dining and eatouts,80.0,Chinese,Expense,SBI bank,,," On Date 2025-01-23 20:28:00 an amount of rupees 80.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Chinese""  "
+54,2025-01-23 20:28:00,Vegetables & fruits,20.0,Bhaji pala,Expense,SBI bank,,," On Date 2025-01-23 20:28:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+55,2025-01-23 20:28:00,Vegetables & fruits,25.0,Bhaji pala,Expense,SBI bank,,," On Date 2025-01-23 20:28:00 an amount of rupees 25.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+56,2025-01-23 20:28:00,Vegetables & fruits,30.0,Bhaji pala,Expense,SBI bank,,," On Date 2025-01-23 20:28:00 an amount of rupees 30.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+57,2025-01-23 20:28:00,Kirana ,40.0,Janata bazaar,Expense,SBI bank,,," On Date 2025-01-23 20:28:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Janata bazaar""  "
+58,2025-01-23 20:27:00,Vegetables & fruits,485.0,Bhaji pala,Expense,UPI LITE,,," On Date 2025-01-23 20:27:00 an amount of rupees 485.0 were spent from UPI LITE account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+59,2025-01-23 20:26:00,Transfer,500.0,,Transfer,SBI bank,UPI LITE,," On Date 2025-01-23 20:26:00 a transaction of rupees 500.0 was recieved into SBI bank account in category
+            ""Transfer""  "
+60,2025-01-23 20:26:00,Others,229.0,Tb tablets,Expense,ICICI BANK,,," On Date 2025-01-23 20:26:00 an amount of rupees 229.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Tb tablets""  "
+61,2025-01-21 11:22:00,Bills and Utilities,588.82,wifi bill,Expense,ICICI BANK,,," On Date 2025-01-21 11:22:00 an amount of rupees 588.82 were spent from ICICI BANK account in category
+            ""Bills and Utilities"" with a note mentioned as ""wifi bill""  "
+62,2025-01-21 11:20:00,Recieved from Others,500.0,Tb recieved,Income,ICICI BANK,,," On Date 2025-01-21 11:20:00 a transaction of rupees 500.0 was recieved into ICICI BANK account in category
+            ""Recieved from Others"" with a note mentioned as ""Tb recieved""  "
+63,2025-01-21 11:20:00,Car,2000.0,Petrol,Expense,ICICI BANK,,," On Date 2025-01-21 11:20:00 an amount of rupees 2000.0 were spent from ICICI BANK account in category
+            ""Car"" with a note mentioned as ""Petrol""  "
+64,2025-01-21 11:20:00,Dining and eatouts,50.0,Badam shake,Expense,SBI bank,,," On Date 2025-01-21 11:20:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Badam shake""  "
+65,2025-01-21 11:19:00,Kirana ,20.0,Paste,Expense,SBI bank,,," On Date 2025-01-21 11:19:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Paste""  "
+66,2025-01-21 11:19:00,Tablets & Medical,2560.89,Kothari second visit,Expense,ICICI BANK,,," On Date 2025-01-21 11:19:00 an amount of rupees 2560.89 were spent from ICICI BANK account in category
+            ""Tablets & Medical"" with a note mentioned as ""Kothari second visit""  "
+67,2025-01-21 11:19:00,Dining and eatouts,40.0,Usacha ras,Expense,SBI bank,,," On Date 2025-01-21 11:19:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Usacha ras""  "
+68,2025-01-20 10:22:00,Clothing ,2250.0,Mulchand,Expense,ICICI BANK,,," On Date 2025-01-20 10:22:00 an amount of rupees 2250.0 were spent from ICICI BANK account in category
+            ""Clothing "" with a note mentioned as ""Mulchand""  "
+69,2025-01-20 10:21:00,Recieved from Others,400.0,For selling bhande rack,Income,SBI bank,,," On Date 2025-01-20 10:21:00 a transaction of rupees 400.0 was recieved into SBI bank account in category
+            ""Recieved from Others"" with a note mentioned as ""For selling bhande rack""  "
+70,2025-01-20 10:20:00,Dining and eatouts,60.0,Paan,Expense,SBI bank,,," On Date 2025-01-20 10:20:00 an amount of rupees 60.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Paan""  "
+71,2025-01-20 10:20:00,Dining and eatouts,565.0,Pakwaan,Expense,ICICI BANK,,," On Date 2025-01-20 10:20:00 an amount of rupees 565.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Pakwaan""  "
+72,2025-01-20 10:20:00,Dining and eatouts,40.0,Bhaje,Expense,SBI bank,,," On Date 2025-01-20 10:20:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bhaje""  "
+73,2025-01-20 10:19:00,Snacks and Food,40.0,Coldrink,Expense,SBI bank,,," On Date 2025-01-20 10:19:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Coldrink""  "
+74,2025-01-20 10:19:00,Dining and eatouts,221.0,Biryani,Expense,ICICI BANK,,," On Date 2025-01-20 10:19:00 an amount of rupees 221.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Biryani""  "
+75,2025-01-20 10:19:00,Dining and eatouts,158.0,Jeera rice,Expense,ICICI BANK,,," On Date 2025-01-20 10:19:00 an amount of rupees 158.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Jeera rice""  "
+76,2025-01-18 16:00:00,Interest & Dividents,6.0,From google pay,Income,SBI bank,,," On Date 2025-01-18 16:00:00 a transaction of rupees 6.0 was recieved into SBI bank account in category
+            ""Interest & Dividents"" with a note mentioned as ""From google pay""  "
+77,2025-01-18 15:59:00,Recieved from Others,1500.0,Tb recieved,Income,ICICI BANK,,," On Date 2025-01-18 15:59:00 a transaction of rupees 1500.0 was recieved into ICICI BANK account in category
+            ""Recieved from Others"" with a note mentioned as ""Tb recieved""  "
+78,2025-01-18 14:42:00,Kirana ,161.0,Janata food bazaar,Expense,ICICI BANK,,," On Date 2025-01-18 14:42:00 an amount of rupees 161.0 were spent from ICICI BANK account in category
+            ""Kirana "" with a note mentioned as ""Janata food bazaar""  "
+79,2025-01-18 14:41:00,Bike,300.0,Petrol,Expense,ICICI BANK,,," On Date 2025-01-18 14:41:00 an amount of rupees 300.0 were spent from ICICI BANK account in category
+            ""Bike"" with a note mentioned as ""Petrol""  "
+80,2025-01-18 14:41:00,Dining and eatouts,27.0,Pohe,Expense,SBI bank,,," On Date 2025-01-18 14:41:00 an amount of rupees 27.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Pohe""  "
+81,2025-01-18 14:41:00,Snacks and Food,40.0,Biscuit,Expense,SBI bank,,," On Date 2025-01-18 14:41:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Biscuit""  "
+82,2025-01-17 15:38:00,Dining and eatouts,100.0,Bhajya,Expense,SBI bank,,," On Date 2025-01-17 15:38:00 an amount of rupees 100.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bhajya""  "
+83,2025-01-17 15:38:00,Dining and eatouts,100.0,Pulao,Expense,SBI bank,,," On Date 2025-01-17 15:38:00 an amount of rupees 100.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Pulao""  "
+84,2025-01-17 10:19:00,Dining and eatouts,100.0,Pulao,Expense,SBI bank,,," On Date 2025-01-17 10:19:00 an amount of rupees 100.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Pulao""  "
+85,2025-01-17 10:19:00,Dining and eatouts,60.0,Aloo paratha,Expense,SBI bank,,," On Date 2025-01-17 10:19:00 an amount of rupees 60.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Aloo paratha""  "
+86,2025-01-17 10:18:00,Snacks and Food,50.0,Biscuits,Expense,SBI bank,,," On Date 2025-01-17 10:18:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Biscuits""  "
+87,2025-01-17 10:18:00,Kirana ,48.0,Dudh dahi,Expense,SBI bank,,," On Date 2025-01-17 10:18:00 an amount of rupees 48.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Dudh dahi""  "
+88,2025-01-17 10:13:00,Vegetables & fruits,70.0,Bhaji pala,Expense,SBI bank,,," On Date 2025-01-17 10:13:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+89,2025-01-16 13:25:00,Dining and eatouts,50.0,Dosa,Expense,SBI bank,,," On Date 2025-01-16 13:25:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Dosa""  "
+90,2025-01-16 13:24:00,Vegetables & fruits,40.0,Peru,Expense,SBI bank,,," On Date 2025-01-16 13:24:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Peru""  "
+91,2025-01-16 13:24:00,Dining and eatouts,84.0,Polya,Expense,SBI bank,,," On Date 2025-01-16 13:24:00 an amount of rupees 84.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Polya""  "
+92,2025-01-16 10:28:00,Bills and Utilities,200.9,Mummy recharge,Expense,SBI bank,,," On Date 2025-01-16 10:28:00 an amount of rupees 200.9 were spent from SBI bank account in category
+            ""Bills and Utilities"" with a note mentioned as ""Mummy recharge""  "
+93,2025-01-16 10:26:00,Dining and eatouts,90.0,Chinese,Expense,SBI bank,,," On Date 2025-01-16 10:26:00 an amount of rupees 90.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Chinese""  "
+94,2025-01-16 10:22:00,Recieved from Others,90.0,From google pay,Income,SBI bank,,," On Date 2025-01-16 10:22:00 a transaction of rupees 90.0 was recieved into SBI bank account in category
+            ""Recieved from Others"" with a note mentioned as ""From google pay""  "
+95,2025-01-16 10:22:00,Zomato and Swiggy,220.0,Pakwaan,Expense,ICICI BANK,,," On Date 2025-01-16 10:22:00 an amount of rupees 220.0 were spent from ICICI BANK account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Pakwaan""  "
+96,2025-01-16 10:22:00,Dining and eatouts,50.0,Paan,Expense,SBI bank,,," On Date 2025-01-16 10:22:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Paan""  "
+97,2025-01-16 10:22:00,Dining and eatouts,20.0,Masala dudh,Expense,SBI bank,,," On Date 2025-01-16 10:22:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Masala dudh""  "
+98,2025-01-16 10:21:00,Zomato and Swiggy,50.0,Pakwaan,Expense,SBI bank,,," On Date 2025-01-16 10:21:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Pakwaan""  "
+99,2025-01-16 10:21:00,Dining and eatouts,100.0,Anda rice,Expense,SBI bank,,," On Date 2025-01-16 10:21:00 an amount of rupees 100.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Anda rice""  "
+100,2025-01-14 09:51:00,Dining and eatouts,90.0,Manchurian,Expense,ICICI BANK,,," On Date 2025-01-14 09:51:00 an amount of rupees 90.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Manchurian""  "
+101,2025-01-14 09:50:00,Snacks and Food,60.0,Motichur laddoo,Expense,SBI bank,,," On Date 2025-01-14 09:50:00 an amount of rupees 60.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Motichur laddoo""  "
+102,2025-01-13 10:36:00,Investments,500.0,Into ppf,Expense,ICICI BANK,,," On Date 2025-01-13 10:36:00 an amount of rupees 500.0 were spent from ICICI BANK account in category
+            ""Investments"" with a note mentioned as ""Into ppf""  "
+103,2025-01-12 22:45:00,Vegetables & fruits,65.0,Sankrant samaan,Expense,SBI bank,,," On Date 2025-01-12 22:45:00 an amount of rupees 65.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Sankrant samaan""  "
+104,2025-01-12 22:45:00,Clothing ,420.0,Mobile covers,Expense,SBI bank,,," On Date 2025-01-12 22:45:00 an amount of rupees 420.0 were spent from SBI bank account in category
+            ""Clothing "" with a note mentioned as ""Mobile covers""  "
+105,2025-01-12 22:44:00,Festival & Flowers ,80.0,For darling,Expense,SBI bank,,," On Date 2025-01-12 22:44:00 an amount of rupees 80.0 were spent from SBI bank account in category
+            ""Festival & Flowers "" with a note mentioned as ""For darling""  "
+106,2025-01-12 19:30:00,Home,1000.0,bbdaily,Expense,ICICI BANK,,," On Date 2025-01-12 19:30:00 an amount of rupees 1000.0 were spent from ICICI BANK account in category
+            ""Home"" with a note mentioned as ""bbdaily""  "
+107,2025-01-12 15:24:00,Others,208.0,Pan d,Expense,SBI bank,,," On Date 2025-01-12 15:24:00 an amount of rupees 208.0 were spent from SBI bank account in category
+            ""Others"" with a note mentioned as ""Pan d""  "
+108,2025-01-12 15:24:00,Kirana ,741.0,,Expense,ICICI BANK,,," On Date 2025-01-12 15:24:00 an amount of rupees 741.0 were spent from ICICI BANK account in category
+            ""Kirana ""  "
+109,2025-01-12 13:41:00,Car,280.0,Car wash,Expense,SBI bank,,," On Date 2025-01-12 13:41:00 an amount of rupees 280.0 were spent from SBI bank account in category
+            ""Car"" with a note mentioned as ""Car wash""  "
+110,2025-01-12 10:42:00,Investments,20842.64,Lic premium,Expense,ICICI BANK,,," On Date 2025-01-12 10:42:00 an amount of rupees 20842.64 were spent from ICICI BANK account in category
+            ""Investments"" with a note mentioned as ""Lic premium""  "
+111,2025-01-12 10:42:00,Dining and eatouts,25.0,Paan,Expense,SBI bank,,," On Date 2025-01-12 10:42:00 an amount of rupees 25.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Paan""  "
+112,2025-01-12 10:41:00,Vegetables & fruits,70.0,Santri,Expense,SBI bank,,," On Date 2025-01-12 10:41:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Santri""  "
+113,2025-01-12 10:41:00,Dining and eatouts,20.0,Bisleri,Expense,SBI bank,,," On Date 2025-01-12 10:41:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bisleri""  "
+114,2025-01-12 10:40:00,Dining and eatouts,90.0,Pavbhaji,Expense,UPI LITE,,," On Date 2025-01-12 10:40:00 an amount of rupees 90.0 were spent from UPI LITE account in category
+            ""Dining and eatouts"" with a note mentioned as ""Pavbhaji""  "
+115,2025-01-12 10:40:00,Dining and eatouts,100.0,Noodles,Expense,SBI bank,,," On Date 2025-01-12 10:40:00 an amount of rupees 100.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Noodles""  "
+116,2025-01-12 10:40:00,Clothing ,1530.0,Sankrant saadi,Expense,ICICI BANK,,," On Date 2025-01-12 10:40:00 an amount of rupees 1530.0 were spent from ICICI BANK account in category
+            ""Clothing "" with a note mentioned as ""Sankrant saadi""  "
+117,2025-01-12 10:40:00,Others,45.0,,Expense,UPI LITE,,," On Date 2025-01-12 10:40:00 an amount of rupees 45.0 were spent from UPI LITE account in category
+            ""Others""  "
+118,2025-01-11 13:36:00,Zomato and Swiggy,286.0,Dal khichdi,Expense,SBI bank,,," On Date 2025-01-11 13:36:00 an amount of rupees 286.0 were spent from SBI bank account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Dal khichdi""  "
+119,2025-01-10 13:01:00,EMIs ,6238.0,CAR EMI,Expense,ICICI BANK,,," On Date 2025-01-10 13:01:00 an amount of rupees 6238.0 were spent from ICICI BANK account in category
+            ""EMIs "" with a note mentioned as ""CAR EMI""  "
+120,2025-01-10 12:33:00,Snacks and Food,40.0,Biscuits,Expense,SBI bank,,," On Date 2025-01-10 12:33:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Biscuits""  "
+121,2025-01-10 12:32:00,Kirana ,233.0,Janata bazaar,Expense,SBI bank,,," On Date 2025-01-10 12:32:00 an amount of rupees 233.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Janata bazaar""  "
+122,2025-01-10 12:32:00,Others,180.0,Akt 3,Expense,SBI bank,,," On Date 2025-01-10 12:32:00 an amount of rupees 180.0 were spent from SBI bank account in category
+            ""Others"" with a note mentioned as ""Akt 3""  "
+123,2025-01-09 12:20:00,Others,3000.0,ITR filing fee,Expense,SBI bank,,," On Date 2025-01-09 12:20:00 an amount of rupees 3000.0 were spent from SBI bank account in category
+            ""Others"" with a note mentioned as ""ITR filing fee""  "
+124,2025-01-09 11:29:00,Bills and Utilities,1710.0,Nook lightbill,Expense,SBI bank,,," On Date 2025-01-09 11:29:00 an amount of rupees 1710.0 were spent from SBI bank account in category
+            ""Bills and Utilities"" with a note mentioned as ""Nook lightbill""  "
+125,2025-01-09 07:58:00,Zomato and Swiggy,284.0,,Expense,SBI bank,,," On Date 2025-01-09 07:58:00 an amount of rupees 284.0 were spent from SBI bank account in category
+            ""Zomato and Swiggy""  "
+126,2025-01-09 07:58:00,Tablets & Medical,800.0,Dr kothari,Expense,ICICI BANK,,," On Date 2025-01-09 07:58:00 an amount of rupees 800.0 were spent from ICICI BANK account in category
+            ""Tablets & Medical"" with a note mentioned as ""Dr kothari""  "
+127,2025-01-09 07:57:00,Others,661.0,Dr kothari,Expense,ICICI BANK,,," On Date 2025-01-09 07:57:00 an amount of rupees 661.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Dr kothari""  "
+128,2025-01-09 07:57:00,Tablets & Medical,500.0,Dr jaankar,Expense,SBI bank,,," On Date 2025-01-09 07:57:00 an amount of rupees 500.0 were spent from SBI bank account in category
+            ""Tablets & Medical"" with a note mentioned as ""Dr jaankar""  "
+129,2025-01-09 07:57:00,Tablets & Medical,4.0,Report printing,Expense,UPI LITE,,," On Date 2025-01-09 07:57:00 an amount of rupees 4.0 were spent from UPI LITE account in category
+            ""Tablets & Medical"" with a note mentioned as ""Report printing""  "
+130,2025-01-09 07:56:00,Others,53.0,Ulti golya,Expense,UPI LITE,,," On Date 2025-01-09 07:56:00 an amount of rupees 53.0 were spent from UPI LITE account in category
+            ""Others"" with a note mentioned as ""Ulti golya""  "
+131,2025-01-09 07:56:00,Others,72.0,Julaab golya,Expense,UPI LITE,,," On Date 2025-01-09 07:56:00 an amount of rupees 72.0 were spent from UPI LITE account in category
+            ""Others"" with a note mentioned as ""Julaab golya""  "
+132,2025-01-09 07:56:00,Others,12.0,Chaha,Expense,UPI LITE,,," On Date 2025-01-09 07:56:00 an amount of rupees 12.0 were spent from UPI LITE account in category
+            ""Others"" with a note mentioned as ""Chaha""  "
+133,2025-01-09 07:55:00,Kirana ,105.0,Janata food bazaar,Expense,UPI LITE,,," On Date 2025-01-09 07:55:00 an amount of rupees 105.0 were spent from UPI LITE account in category
+            ""Kirana "" with a note mentioned as ""Janata food bazaar""  "
+134,2025-01-09 07:55:00,Vegetables & fruits,40.0,Bhaji pala,Expense,UPI LITE,,," On Date 2025-01-09 07:55:00 an amount of rupees 40.0 were spent from UPI LITE account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+135,2025-01-09 07:55:00,Kirana ,75.0,Dalan,Expense,UPI LITE,,," On Date 2025-01-09 07:55:00 an amount of rupees 75.0 were spent from UPI LITE account in category
+            ""Kirana "" with a note mentioned as ""Dalan""  "
+136,2025-01-07 18:56:00,Vegetables & fruits,110.0,Bhaji pala,Expense,SBI bank,,," On Date 2025-01-07 18:56:00 an amount of rupees 110.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji pala""  "
+137,2025-01-07 18:56:00,Kirana ,706.0,Gahu,Expense,SBI bank,,," On Date 2025-01-07 18:56:00 an amount of rupees 706.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Gahu""  "
+138,2025-01-07 16:52:00,Transfer,500.0,,Transfer,SBI bank,UPI LITE,," On Date 2025-01-07 16:52:00 a transaction of rupees 500.0 was recieved into SBI bank account in category
+            ""Transfer""  "
+139,2025-01-07 16:52:00,Dining and eatouts,20.0,Ras,Expense,SBI bank,,," On Date 2025-01-07 16:52:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Ras""  "
+140,2025-01-07 09:35:00,Dining and eatouts,70.0,Juice,Expense,SBI bank,,," On Date 2025-01-07 09:35:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Juice""  "
+141,2025-01-07 09:34:00,Dining and eatouts,70.0,Juice,Expense,SBI bank,,," On Date 2025-01-07 09:34:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Juice""  "
+142,2025-01-07 08:03:00,Kirana ,75.0,Eggs,Expense,SBI bank,,," On Date 2025-01-07 08:03:00 an amount of rupees 75.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Eggs""  "
+143,2025-01-07 08:03:00,Items in home,20.0,Cement,Expense,SBI bank,,," On Date 2025-01-07 08:03:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Items in home"" with a note mentioned as ""Cement""  "
+144,2025-01-07 08:02:00,Items in home,60.0,Rose plant,Expense,SBI bank,,," On Date 2025-01-07 08:02:00 an amount of rupees 60.0 were spent from SBI bank account in category
+            ""Items in home"" with a note mentioned as ""Rose plant""  "
+145,2025-01-07 08:02:00,Vegetables & fruits,210.0,dalimb,Expense,SBI bank,,," On Date 2025-01-07 08:02:00 an amount of rupees 210.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""dalimb""  "
+146,2025-01-06 13:52:00,Dining and eatouts,70.0,Egg rice,Expense,SBI bank,,," On Date 2025-01-06 13:52:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Egg rice""  "
+147,2025-01-06 13:52:00,Dining and eatouts,60.0,Aloo paratha,Expense,SBI bank,,," On Date 2025-01-06 13:52:00 an amount of rupees 60.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Aloo paratha""  "
+148,2025-01-06 13:05:00,Transfer,720.0,Recieved from aditya and mahesh,Transfer,SBI bank,ICICI BANK,," On Date 2025-01-06 13:05:00 a transaction of rupees 720.0 was recieved into SBI bank account in category
+            ""Transfer"" with a note mentioned as ""Recieved from aditya and mahesh""  "
+149,2025-01-06 13:00:00,EMIs ,859.0,Home loan insurance 6,Expense,ICICI BANK,,," On Date 2025-01-06 13:00:00 an amount of rupees 859.0 were spent from ICICI BANK account in category
+            ""EMIs "" with a note mentioned as ""Home loan insurance 6""  "
+150,2025-01-05 20:23:00,Kirana ,90.0,Kirana,Expense,SBI bank,,," On Date 2025-01-05 20:23:00 an amount of rupees 90.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Kirana""  "
+151,2025-01-05 20:23:00,Items in home,165.0,Kundi,Expense,SBI bank,,," On Date 2025-01-05 20:23:00 an amount of rupees 165.0 were spent from SBI bank account in category
+            ""Items in home"" with a note mentioned as ""Kundi""  "
+152,2025-01-05 20:23:00,Adhoc ,5000.0,Driving school,Expense,ICICI BANK,,," On Date 2025-01-05 20:23:00 an amount of rupees 5000.0 were spent from ICICI BANK account in category
+            ""Adhoc "" with a note mentioned as ""Driving school""  "
+153,2025-01-05 20:22:00,Kirana ,111.0,Badisop,Expense,SBI bank,,," On Date 2025-01-05 20:22:00 an amount of rupees 111.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Badisop""  "
+154,2025-01-05 20:22:00,Dining and eatouts,25.0,Bhakri,Expense,SBI bank,,," On Date 2025-01-05 20:22:00 an amount of rupees 25.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bhakri""  "
+155,2025-01-05 13:35:00,Latur Rent,5300.0,From kiraydar 2,Income,SBI bank,,," On Date 2025-01-05 13:35:00 a transaction of rupees 5300.0 was recieved into SBI bank account in category
+            ""Latur Rent"" with a note mentioned as ""From kiraydar 2""  "
+156,2025-01-05 12:28:00,EMIs ,2000.0,Backup bhandewali,Expense,Cash,,," On Date 2025-01-05 12:28:00 an amount of rupees 2000.0 were spent from Cash account in category
+            ""EMIs "" with a note mentioned as ""Backup bhandewali""  "
+157,2025-01-05 12:27:00,Tablets & Medical,9500.0,CT scan,Expense,ICICI BANK,,," On Date 2025-01-05 12:27:00 an amount of rupees 9500.0 were spent from ICICI BANK account in category
+            ""Tablets & Medical"" with a note mentioned as ""CT scan""  "
+158,2025-01-05 12:27:00,EMIs ,58735.0,Home loan EMI 6,Expense,ICICI BANK,,," On Date 2025-01-05 12:27:00 an amount of rupees 58735.0 were spent from ICICI BANK account in category
+            ""EMIs "" with a note mentioned as ""Home loan EMI 6""  "
+159,2025-01-05 12:26:00,Others,501.0,Raghvendra swami mathh,Expense,ICICI BANK,,," On Date 2025-01-05 12:26:00 an amount of rupees 501.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Raghvendra swami mathh""  "
+160,2025-01-05 12:25:00,Others,1700.0,Raghvendra swami mathh,Expense,ICICI BANK,,," On Date 2025-01-05 12:25:00 an amount of rupees 1700.0 were spent from ICICI BANK account in category
+            ""Others"" with a note mentioned as ""Raghvendra swami mathh""  "
+161,2025-01-05 12:25:00,Others,12.0,,Expense,SBI bank,,," On Date 2025-01-05 12:25:00 an amount of rupees 12.0 were spent from SBI bank account in category
+            ""Others""  "
+162,2025-01-05 12:25:00,Snacks and Food,10.0,Parle g,Expense,SBI bank,,," On Date 2025-01-05 12:25:00 an amount of rupees 10.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Parle g""  "
+163,2025-01-05 12:25:00,Vegetables & fruits,80.0,Bor and keli,Expense,SBI bank,,," On Date 2025-01-05 12:25:00 an amount of rupees 80.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bor and keli""  "
+164,2025-01-05 12:25:00,Festival & Flowers ,100.0,Pappa haar,Expense,SBI bank,,," On Date 2025-01-05 12:25:00 an amount of rupees 100.0 were spent from SBI bank account in category
+            ""Festival & Flowers "" with a note mentioned as ""Pappa haar""  "
+165,2025-01-05 12:24:00,Dining and eatouts,40.0,Iceb,Expense,SBI bank,,," On Date 2025-01-05 12:24:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Iceb""  "
+166,2025-01-05 12:24:00,Dining and eatouts,70.0,Paan,Expense,SBI bank,,," On Date 2025-01-05 12:24:00 an amount of rupees 70.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Paan""  "
+167,2025-01-05 12:24:00,Dining and eatouts,280.0,Kale farms,Expense,SBI bank,,," On Date 2025-01-05 12:24:00 an amount of rupees 280.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Kale farms""  "
+168,2025-01-05 12:24:00,Dining and eatouts,380.0,Beer,Expense,SBI bank,,," On Date 2025-01-05 12:24:00 an amount of rupees 380.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Beer""  "
+169,2025-01-05 12:24:00,Others,12.0,Chaha,Expense,SBI bank,,," On Date 2025-01-05 12:24:00 an amount of rupees 12.0 were spent from SBI bank account in category
+            ""Others"" with a note mentioned as ""Chaha""  "
+170,2025-01-05 12:24:00,Dining and eatouts,20.0,Bisleri,Expense,SBI bank,,," On Date 2025-01-05 12:24:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bisleri""  "
+171,2025-01-05 12:23:00,Dining and eatouts,40.0,Masala dudh,Expense,SBI bank,,," On Date 2025-01-05 12:23:00 an amount of rupees 40.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Masala dudh""  "
+172,2025-01-05 12:23:00,Snacks and Food,60.0,Farsaan,Expense,SBI bank,,," On Date 2025-01-05 12:23:00 an amount of rupees 60.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Farsaan""  "
+173,2025-01-05 12:23:00,Dining and eatouts,50.0,Bhakri,Expense,SBI bank,,," On Date 2025-01-05 12:23:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Bhakri""  "
+174,2025-01-03 09:58:00,Home,805.6,Hp gas,Expense,ICICI BANK,,," On Date 2025-01-03 09:58:00 an amount of rupees 805.6 were spent from ICICI BANK account in category
+            ""Home"" with a note mentioned as ""Hp gas""  "
+175,2025-01-03 09:57:00,Dining and eatouts,135.0,Cold cofee,Expense,ICICI BANK,,," On Date 2025-01-03 09:57:00 an amount of rupees 135.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Cold cofee""  "
+176,2025-01-03 09:57:00,Zomato and Swiggy,291.0,Dal khichdi,Expense,ICICI BANK,,," On Date 2025-01-03 09:57:00 an amount of rupees 291.0 were spent from ICICI BANK account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Dal khichdi""  "
+177,2025-01-03 09:57:00,Snacks and Food,350.0,Cake,Expense,SBI bank,,," On Date 2025-01-03 09:57:00 an amount of rupees 350.0 were spent from SBI bank account in category
+            ""Snacks and Food"" with a note mentioned as ""Cake""  "
+178,2025-01-03 09:56:00,Kirana ,86.0,Dudh dahi,Expense,SBI bank,,," On Date 2025-01-03 09:56:00 an amount of rupees 86.0 were spent from SBI bank account in category
+            ""Kirana "" with a note mentioned as ""Dudh dahi""  "
+179,2025-01-03 09:55:00,Home,130.0,Paper cup and milk,Expense,SBI bank,,," On Date 2025-01-03 09:55:00 an amount of rupees 130.0 were spent from SBI bank account in category
+            ""Home"" with a note mentioned as ""Paper cup and milk""  "
+180,2025-01-03 09:55:00,Dining and eatouts,20.0,Ras,Expense,SBI bank,,," On Date 2025-01-03 09:55:00 an amount of rupees 20.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Ras""  "
+181,2025-01-03 09:55:00,Vegetables & fruits,50.0,Naralpaani,Expense,SBI bank,,," On Date 2025-01-03 09:55:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Naralpaani""  "
+182,2025-01-03 09:55:00,Vegetables & fruits,50.0,Anjeer,Expense,SBI bank,,," On Date 2025-01-03 09:55:00 an amount of rupees 50.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Anjeer""  "
+183,2025-01-03 09:55:00,Vegetables & fruits,190.0,Bhaji,Expense,SBI bank,,," On Date 2025-01-03 09:55:00 an amount of rupees 190.0 were spent from SBI bank account in category
+            ""Vegetables & fruits"" with a note mentioned as ""Bhaji""  "
+184,2025-01-02 11:08:00,Car,1200.0,Fuel,Expense,ICICI BANK,,," On Date 2025-01-02 11:08:00 an amount of rupees 1200.0 were spent from ICICI BANK account in category
+            ""Car"" with a note mentioned as ""Fuel""  "
+185,2025-01-02 09:41:00,Transfer,2000.0,Atm withdrawals,Transfer,ICICI BANK,Cash,," On Date 2025-01-02 09:41:00 a transaction of rupees 2000.0 was recieved into ICICI BANK account in category
+            ""Transfer"" with a note mentioned as ""Atm withdrawals""  "
+186,2025-01-02 09:40:00,Investments,5000.0,SIP,Expense,ICICI BANK,,," On Date 2025-01-02 09:40:00 an amount of rupees 5000.0 were spent from ICICI BANK account in category
+            ""Investments"" with a note mentioned as ""SIP""  "
+187,2025-01-02 09:35:00,Recieved from Others,530.5,From chinmay for chicken thali,Income,SBI bank,,," On Date 2025-01-02 09:35:00 a transaction of rupees 530.5 was recieved into SBI bank account in category
+            ""Recieved from Others"" with a note mentioned as ""From chinmay for chicken thali""  "
+188,2025-01-02 09:35:00,Others,45.0,Zandu balm,Expense,SBI bank,,," On Date 2025-01-02 09:35:00 an amount of rupees 45.0 were spent from SBI bank account in category
+            ""Others"" with a note mentioned as ""Zandu balm""  "
+189,2025-01-02 09:35:00,Dining and eatouts,75.0,Paan,Expense,SBI bank,,," On Date 2025-01-02 09:35:00 an amount of rupees 75.0 were spent from SBI bank account in category
+            ""Dining and eatouts"" with a note mentioned as ""Paan""  "
+190,2025-01-02 09:34:00,Dining and eatouts,1061.0,Chicken thali,Expense,ICICI BANK,,," On Date 2025-01-02 09:34:00 an amount of rupees 1061.0 were spent from ICICI BANK account in category
+            ""Dining and eatouts"" with a note mentioned as ""Chicken thali""  "
+191,2025-01-02 09:34:00,Clothing ,1210.0,Bhaiya shirt,Expense,SBI bank,,," On Date 2025-01-02 09:34:00 an amount of rupees 1210.0 were spent from SBI bank account in category
+            ""Clothing "" with a note mentioned as ""Bhaiya shirt""  "
+192,2025-01-01 18:35:00,Latur Rent,9000.0,Kiraydar 1,Income,SBI bank,,," On Date 2025-01-01 18:35:00 a transaction of rupees 9000.0 was recieved into SBI bank account in category
+            ""Latur Rent"" with a note mentioned as ""Kiraydar 1""  "
+193,2025-01-01 16:23:00,Zomato and Swiggy,515.0,Dal khichdi,Expense,ICICI BANK,,," On Date 2025-01-01 16:23:00 an amount of rupees 515.0 were spent from ICICI BANK account in category
+            ""Zomato and Swiggy"" with a note mentioned as ""Dal khichdi""  "
+194,2025-01-01 16:23:00,Salary,218976.0,Exusia Salary,Income,ICICI BANK,,," On Date 2025-01-01 16:23:00 a transaction of rupees 218976.0 was recieved into ICICI BANK account in category
+            ""Salary"" with a note mentioned as ""Exusia Salary""  "
